@@ -131,4 +131,4 @@ If you use the datasets or findings from our paper, please cite [our paper](http
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
-If you use this repository, please mention the original GitHub repository by linking to [outfit-transformer](https://github.com/owj0421/outfit-transformer). This helps support the project and acknowledges the contributors.
+If you use this repository, please mention the original GitHub repository by linking to [MCNN-14-Fashion-Image-Classification](https://github.com/owj0421/outfit-transformer). This helps support the project and acknowledges the contributors.
