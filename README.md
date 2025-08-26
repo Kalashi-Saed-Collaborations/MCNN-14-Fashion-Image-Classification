@@ -19,7 +19,7 @@ The transformation of fashion through online platforms has spurred a need for hi
 
 ---
 
-## Authors  
+## 👩‍💻 Authors  
 **Sajjad Saed**  
 <p align="left">
   <a href="https://www.linkedin.com/in/sajjad-saed-845908125/" target="_blank">
