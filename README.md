@@ -9,7 +9,7 @@
 
 This repository contains the implementation of **MCNN-14**, a Multiple Convolutional Neural Network model proposed in our paper:  
 > Saed et al. [*“An Efficient Multiple Convolutional Neural Network Model (MCNN-14) for Fashion Image Classification.”*](https://ieeexplore.ieee.org/abstract/document/10533341). ICWR2024
-
+ 
 ---
 
 ## 📌 Abstract
