@@ -11,7 +11,7 @@ This repository contains the implementation of **MCNN-14**, a Multiple Convoluti
 > Saed et al. [*“An Efficient Multiple Convolutional Neural Network Model (MCNN-14) for Fashion Image Classification.”*](https://ieeexplore.ieee.org/abstract/document/10533341). ICWR2024
  
 ---
-
+  
 ## 📌 Abstract
 The transformation of fashion through online platforms has spurred a need for high-quality clothing search engines, facilitating seamless product discovery for global consumers. However, this transition has brought forth challenges in categorization and description standards among retailers and search engines, stemming from the inherent complexity and variability of fashion items. To address these challenges, deep learning techniques like Multiple Convolutional Neural Networks (MCNNs) have gained prominence in the fashion industry. We propose **MCNN-14**, a novel multiple-CNN architecture that balances superior classification accuracy with computational efficiency.  
 
