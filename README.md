@@ -2,7 +2,7 @@
 
 **Authors:** Sajjad Saed, Babak Teimourpour*, Kamand Kalashi, Mohammad Ali Soltanshahi  
 **Affiliation:** Department of Information Technology Engineering, School of Systems and Industrial Engineering, Tarbiat Modares University (TMU), Tehran, Iran  
-
+ 
 <p align="center">
   <img src="Structure of the Proposed MCNN Model and visualization of the feature maps of C1 ~ C4 layers.png" alt="Structure of the Proposed MCNN Model and visualization of the feature maps of C1 ~ C4 layers" width="600"/>
 </p>
